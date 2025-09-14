@@ -24,3 +24,8 @@ The findings are supported by multiple data visualizations:
 - Violin Plot: Association of genetic/health risk factors with cancer risk.  
 - Heatmap: Correlation among clinical, lifestyle, and environmental features.
 
+CONCLUSION
+This project provides a exploration of lung cancer risk factors through data-driven analysis and visualization. The findings highlight the influence of demographic, lifestyle, environmental, and health variables on lung cancer risk suggesting some strong indicators of lung cancer and can emerge as critical features. 
+
+License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
